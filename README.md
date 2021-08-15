@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gny00
+- 👋 Hi, I’m @jannamariel99
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning computer engineering course
 - 💞️ I’m looking to collaborate on professional programmers and developers
